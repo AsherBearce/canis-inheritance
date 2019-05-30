@@ -10,6 +10,7 @@ public abstract class Canis {
   }
 
   public abstract void hunt();
+  public abstract void speak();
 
   public static int getInstanceCount() {
     return instanceCount;

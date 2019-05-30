@@ -21,5 +21,4 @@ public class CanisLupus extends Canis {
     return instanceCount;
   }
 
-
 }
